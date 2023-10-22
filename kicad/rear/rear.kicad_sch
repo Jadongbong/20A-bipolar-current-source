@@ -1462,7 +1462,7 @@
     (property "Datasheet" "" (at 199.136 89.154 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 95f53fbd-d3ac-41a0-8dd0-c4d459a3da24))
+    (pin "1" (uuid d442a3ec-76c9-4691-b145-c1fba4c78f90))
     (instances
       (project "rear"
         (path "/2f21daab-ac04-42a8-876c-c86138d20a60"
@@ -1490,8 +1490,8 @@
     (property "DIGIKEY PARTNO" "P20.00BYCT-ND" (at 155.448 116.586 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3e751ea0-89a4-4100-8f71-90da930c4845))
-    (pin "2" (uuid f3555bee-a916-4d2b-a032-24904f0c4ff7))
+    (pin "1" (uuid 956cb562-3bc6-4070-93b2-25e06273cfdc))
+    (pin "2" (uuid 7686f963-e5e5-465b-8eda-1dbf82951385))
     (instances
       (project "rear"
         (path "/2f21daab-ac04-42a8-876c-c86138d20a60"
@@ -1914,8 +1914,8 @@
     (property "DIGIKEY PARTNO" "P20.00BYCT-ND" (at 150.368 68.326 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b096c9d0-ee60-4b6a-a319-dd127d1d2570))
-    (pin "2" (uuid fedc745b-ec5e-4361-b3c3-90ebb98c58de))
+    (pin "1" (uuid afaca271-9c98-4695-ac55-592bb6711896))
+    (pin "2" (uuid f59461df-10c6-4b04-9a0f-0d6c9d0447f8))
     (instances
       (project "rear"
         (path "/2f21daab-ac04-42a8-876c-c86138d20a60"
